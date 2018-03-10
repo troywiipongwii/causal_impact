@@ -194,3 +194,5 @@ class CausalImpact:
         plt.show()
 
         print('Note: the first {} observations are not shown, due to approximate diffuse initialization'.format(min_t))
+        
+        def summary_forecast(self)
